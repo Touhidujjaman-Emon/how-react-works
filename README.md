@@ -16,7 +16,7 @@
 
 ### Element to Dom (HTML)
 
-![alt text](<elemet-dom(html).png>)
+![alt text](elemet-to-dom.png)
 
 ### Why cant we call component as function
 
