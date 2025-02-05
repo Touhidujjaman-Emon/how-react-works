@@ -31,3 +31,11 @@
 - renders its return value as a child of the parent component.(become a **div** of parent component)
   ![alt text](wrong-way-to-use-components.png)
   ![alt text](cant-even-mahange-own-state.png)
+
+## How components displayed in the screen
+
+![alt text](how-component-displayed-on-the-screen.png)
+
+### How render is triggered
+
+![alt text](how-render-is-trigered.png)
