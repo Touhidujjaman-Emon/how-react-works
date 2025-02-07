@@ -36,6 +36,28 @@
 
 ![alt text](how-component-displayed-on-the-screen.png)
 
-### How render is triggered
+## How render is triggered
 
 ![alt text](how-render-is-trigered.png)
+
+## The render phase
+
+### High level overview
+
+![alt text](render-phase.png)
+
+### What is virtual dom
+
+![alt text](virtual-dom.png)
+
+### What is reconciliation
+
+![alt text](reconciliation.png)
+
+### The reconciler Fiber
+
+![alt text](the-reconciler-FIBER.png)
+
+### Reconciliation in action
+
+![alt text](reconciliation-in-action.png)
