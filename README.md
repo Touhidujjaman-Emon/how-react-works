@@ -61,3 +61,15 @@
 ### Reconciliation in action
 
 ![alt text](reconciliation-in-action.png)
+
+## Commit and Browser paint phase
+
+![alt text](the-commit-and-browserpain-phase.png)
+
+### It is ReactDom who writes the dom
+
+![alt text](commit-and-browserpaint-2.png)
+
+## recape
+
+![alt text](recape.png)
