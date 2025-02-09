@@ -78,3 +78,15 @@
 
 ![alt text](how-diffing-works.png)
 ![alt text](how-diffing-works-2.png)
+
+## The key prop
+
+![alt text](the-key-prop.png)
+
+### Stable Key (keys in lists)
+
+![alt text](keys-in-lists-stableKey.png)
+
+### Changing key (key prop to reset state)
+
+![alt text](key-prop-to-reset-state-ChangingKey.png)
