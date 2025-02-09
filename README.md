@@ -73,3 +73,8 @@
 ## recape
 
 ![alt text](recape.png)
+
+## How diffing works
+
+![alt text](how-diffing-works.png)
+![alt text](how-diffing-works-2.png)
