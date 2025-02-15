@@ -90,3 +90,13 @@
 ### Changing key (key prop to reset state)
 
 ![alt text](key-prop-to-reset-state-ChangingKey.png)
+
+## Render logic
+
+### Two logic of react component
+
+![alt text](two-logic-of-react-component.png)
+
+### Rules of render logic
+
+![alt text](rules-of-renderLogic.png)
