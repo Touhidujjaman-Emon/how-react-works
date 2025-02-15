@@ -40,6 +40,14 @@
 
 ![alt text](how-render-is-trigered.png)
 
+### How state update are batched
+
+![alt text](how-stateUpdate-areBatched.png)
+
+### State upadet is asynchronous
+
+![alt text](updating-stateIs-asynchronous.png)
+
 ## The render phase
 
 ### High level overview
@@ -100,3 +108,5 @@
 ### Rules of render logic
 
 ![alt text](rules-of-renderLogic.png)
+
+##
