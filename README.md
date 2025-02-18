@@ -109,4 +109,10 @@
 
 ![alt text](rules-of-renderLogic.png)
 
-##
+## How react Handle events
+
+![alt text](how-react-handle-events.png)
+
+### Synthetic event
+
+![alt text](sythetic-event.png)
