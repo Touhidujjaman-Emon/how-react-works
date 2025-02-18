@@ -116,3 +116,15 @@
 ### Synthetic event
 
 ![alt text](sythetic-event.png)
+
+## Framework vs Library
+
+![alt text](framework-vs-library.png)
+
+### Preferd libraries for react
+
+![alt text](some-of-the-prefered-library.png)
+
+### Framework buit on top of react
+
+![alt text](framework-buit-onTop-oFreact.png)
