@@ -128,3 +128,9 @@
 ### Framework buit on top of react
 
 ![alt text](framework-buit-onTop-oFreact.png)
+
+## Practical summary
+
+![alt text](practical-summary-1.png)
+![alt text](practical-summary-3.png)
+![alt text](practical-summary-2.png)
